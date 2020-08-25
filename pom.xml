@@ -46,4 +46,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:[https://github.com/ElnurAliyev/sfg-pet-clinic/ssh]</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 </project>
