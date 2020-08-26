@@ -23,6 +23,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+    
     <dependencies>
 
     </dependencies>
@@ -47,5 +48,5 @@
     <scm>
         <developerConnection>scm:git:https://github.com/ElnurAliyev/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
-  </scm>
+    </scm>
 </project>
